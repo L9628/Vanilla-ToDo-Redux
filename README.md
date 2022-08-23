@@ -1,3 +1,4 @@
 # Vanilla Redux
 
-Learning Vanilla-Redux and React-Redux
+Learning Vanilla-Redux
+Creating To-Do List
